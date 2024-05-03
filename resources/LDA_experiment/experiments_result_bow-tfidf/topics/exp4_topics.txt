@@ -1,0 +1,9 @@
+[(0, '0.004*"php" + 0.003*"array" + 0.003*"string" + 0.003*"pylint" + 0.003*"golangci" + 0.003*"semgrep" + 0.003*"file" + 0.003*"class" + 0.003*"go" + 0.003*"java"'), 
+(1, '0.005*"php" + 0.004*"array" + 0.004*"go" + 0.004*"psalm" + 0.004*"int" + 0.003*"string" + 0.003*"python" + 0.003*"semgrep" + 0.003*"file" + 0.003*"foo"'), 
+(2, '0.004*"go" + 0.004*"array" + 0.004*"pylint" + 0.004*"rule" + 0.003*"semgrep" + 0.003*"psalm" + 0.003*"class" + 0.003*"return" + 0.003*"php" + 0.003*"java"'), 
+(3, '0.004*"array" + 0.003*"class" + 0.003*"pylint" + 0.003*"psalm" + 0.003*"type" + 0.003*"php" + 0.003*"string" + 0.003*"function" + 0.003*"return" + 0.003*"detail"'), 
+(4, '0.004*"psalm" + 0.004*"pylint" + 0.003*"java" + 0.003*"php" + 0.003*"array" + 0.003*"class" + 0.003*"string" + 0.003*"you" + 0.003*"s" + 0.003*"foo"'), 
+(5, '0.005*"php" + 0.004*"python" + 0.004*"array" + 0.004*"java" + 0.003*"file" + 0.003*"psalm" + 0.003*"string" + 0.003*"foo" + 0.003*"type" + 0.003*"go"'), 
+(6, '0.004*"string" + 0.003*"psalm" + 0.003*"array" + 0.003*"foo" + 0.003*"php" + 0.003*"return" + 0.003*"class" + 0.003*"go" + 0.003*"pattern" + 0.003*"python"')]
+
+Coherence Score:  0.32106961105770787
